@@ -1,10 +1,10 @@
 
 <h1 align="center">
-  Personalized Predictive Glioma Inference
+  High-dimesional Bayesian inference for subject-specific prediction of glioma growth
   <br>
 </h1>
 
-<h4 align="center">A computational model built on top of Python libaries <a href="https://github.com/FEniCS" target="_blank">FEniCS</a>, and <a href="https://hippylib.github.io/" target="_blank">hIPPYlib</a>.</h4>
+<h4 align="center">A computational model built on Python libaries <a href="https://github.com/FEniCS" target="_blank">FEniCS</a>, and <a href="https://hippylib.github.io/" target="_blank">hIPPYlib</a>.</h4>
 
 <!-- update later -->
 <!-- <p align="center">
