@@ -27,7 +27,6 @@ This repository contains an image-based predictive model of tumor growth with ap
 
 ## Key Features
 
-* Individualized parameter construction
 * 2D and 3D simulations
 * Perform computational prediction of the tumor evolution
 * Uncertainties quantifications 
