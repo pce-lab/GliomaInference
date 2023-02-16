@@ -27,8 +27,6 @@ This repository contains an image-based predictive model of tumor growth with ap
 
 ## Key Features
 
-* Image registration
-* Mesh generation
 * Individualized parameter construction
 * 2D and 3D simulations
 * Perform computational prediction of the tumor evolution
