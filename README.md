@@ -23,7 +23,7 @@
 </p>
 
 ## Summary
-This repository contains an image-based predictive model of tumor growth with application to a murine pre-clinical model of gliomabastoma (GMB). The model is calibrated with the Magnetic Resonance Imaging (MRI) data of the brain, and predicts the tumor evolution in the future time point. The prediction capability is validated by an example with synthetic tumor model. The proposed model also accounts for uncertainty in the morphology, invasiveness, and spatial and temporal heterogeneity of growing tumors. 
+This repository contains an image-based predictive model of tumor growth with application to a murine pre-clinical model of gliomabastoma (GMB). The model is calibrated with the Magnetic Resonance Imaging (MRI) data of the brain, and predicts the tumor evolution in the future time point. 
 
 ## Key Features
 
